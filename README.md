@@ -11,3 +11,5 @@ Módulo de Backup: Cria cópias de segurança automáticas
 Módulo de Cadastro: Implementa o fluxo de registro de doações
 
 Módulo de Relatórios: Calcula e exibe estatísticas sobre as doações
+
+![logo-unip-vermelha-1024](https://github.com/user-attachments/assets/b17dc4a7-724c-48e8-a52b-35171fa078c3)
